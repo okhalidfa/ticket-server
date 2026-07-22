@@ -1,6 +1,6 @@
 {
   "name": "ticketbari-server",
-  "version": "1.0.0",
+  "version": "1.0.0", 
   "description": "TicketBari online ticket booking platform API",
   "main": "index.js",
   "scripts": {
