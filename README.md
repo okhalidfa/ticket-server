@@ -7,7 +7,7 @@ REST API for TicketBari, an online ticket booking platform for bus, train, launc
 - Ticket CRUD with vendor ownership checks
 - Admin approval and advertisement control for tickets
 - Booking lifecycle: pending → accepted/rejected → paid
-- Stripe payment intent creation and transaction logging
+- Stripe payment intent creation and transaction logging 
 - Search, filter, sort and pagination on the tickets endpoint
 
 ## Tech
