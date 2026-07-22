@@ -1,7 +1,7 @@
 # TicketBari Server
 
 REST API for TicketBari, an online ticket booking platform for bus, train, launch and plane tickets.
-
+ 
 ## Features
 - JWT protected routes for user, vendor and admin roles
 - Ticket CRUD with vendor ownership checks
